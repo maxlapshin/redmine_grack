@@ -1,0 +1,4 @@
+= grack
+
+Redmine module to provide authentication support for a redminified
+grack (http://github.com/friflaj/grack)
